@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "376279425097",
+    "firebase_url": "https://barcodefee-f4c9d-default-rtdb.firebaseio.com",
+    "project_id": "barcodefee-f4c9d",
+    "storage_bucket": "barcodefee-f4c9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376279425097:android:3eb34aa062cbfde3b91f98",
+        "android_client_info": {
+          "package_name": "com.example.bus_trial_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376279425097-u47fjfboqki7bet6nfv95v5fqodbig3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAqJLcdMTR4eQFyf5grcMPKHtZ_H07T8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376279425097-u47fjfboqki7bet6nfv95v5fqodbig3u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "376279425097-38drncqqq4tfah61dk3qklj54aj71v19.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.busTrialV1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
